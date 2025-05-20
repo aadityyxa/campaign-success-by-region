@@ -64,7 +64,7 @@ const WorldMap: React.FC<WorldMapProps> = ({ data, selectedCountry, onSelectCoun
   };
 
   return (
-    <LoadScript googleMapsApiKey="YOUR_API_KEY">
+    <LoadScript googleMapsApiKey="AIzaSyDrglr9nkYBD9T4ipd5Etqi9f2JjPUFaBY">
       <GoogleMap
         mapContainerStyle={mapContainerStyle}
         center={center}
